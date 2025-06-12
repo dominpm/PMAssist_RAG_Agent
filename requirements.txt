@@ -1,0 +1,10 @@
+chainlit
+langchain
+langchain_google_genai
+chromadb
+langchain_chroma
+langchain_community
+opentelemetry-exporter-otlp
+opentelemetry-sdk
+opentelemetry-distro
+pypdf
